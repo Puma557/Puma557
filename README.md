@@ -19,4 +19,4 @@ I'm a self-taught penetration tester, aspiring to be a 0day Vulnerability resear
 <a target="_blank" href="https://behance.net/sidbelbase/">
 <img src="https://img.shields.io/badge/-sidbelbase-141414?style=for-the-badge&logo=Behance&logoColor=white&link=https://behance.net/sidbelbase" alt="Behance Badge">
 </a>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=WaflesPenetration400&count_private=true&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=WaflesPenetration&count_private=true&show_icons=true&theme=radical)
