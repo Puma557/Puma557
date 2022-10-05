@@ -25,9 +25,9 @@ I'm a self-taught penetration tester, aspiring to be a 0day Vulnerability resear
 
 ## Currently Learning
 
-<h3 align="left"><strong> ->⭐ x86 Assembly <-</strong></h3>
-<h3 align="left"><strong> ->⭐ Ethical Hacking <-</strong></h3>
-<h3 align="left"><strong> ->⭐ HackTheBox CTF <-</strong></h3>
+<h3 align="left"><strong> ->⭐ x86 Assembly </strong></h3>
+<h3 align="left"><strong> ->⭐ Ethical Hacking </strong></h3>
+<h3 align="left"><strong> ->⭐ HackTheBox CTF </strong></h3>
 
 ## Github Statistics
 
