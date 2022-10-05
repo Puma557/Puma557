@@ -1,5 +1,6 @@
 
-<img align="Top" src="https://tenor.com/view/waffle-gif-20571124" height="200px" width="1000x">
+![ezgif-3-2299ef5784](https://user-images.githubusercontent.com/15943431/194160008-5a5b6085-e6fb-41f4-9d95-6db890c7e698.gif)
+
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://waffleshouse.com/">André Oliveira.</a></strong>
 </h1>
@@ -30,7 +31,4 @@ I'm a self-taught penetration tester, aspiring to be a 0day Vulnerability resear
 
 ## Github Statistics
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=WafflesExploit&count_private=true&show_icons=true&theme=radical)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WafflesExploit&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=WafflesExploit&count_private=true&show_icons=true&theme=radical)                  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WafflesExploit&show_icons=true&theme=radical)
