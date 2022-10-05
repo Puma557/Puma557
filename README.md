@@ -15,12 +15,18 @@ I'm a self-taught penetration tester, aspiring to be a 0day Vulnerability resear
 </a>
 
 <a target="_blank" href="https://waffleshouse.rf.gd">
-<img src="https://img.shields.io/badge/-sidbelbase-141414?style=for-the-badge&logo=firefox&logoColor=white&link=https://waffleshouse.rf.gd" alt="Firefox Badge">
+<img src="https://img.shields.io/badge/-WafflesHouse-141414?style=for-the-badge&logo=firefox&logoColor=white&link=https://waffleshouse.rf.gd" alt="Firefox Badge">
 </a>
 
 ## Skills
 
-<img scr="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff" height="25"><img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=fff" height="25"><img src="https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=fff" height="25"><img src="https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=fff" height="25"><img src="https://img.shields.io/badge/-VStudio-5C2D91?logo=visualstudio&logoColor=fff" height="25"><img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff" height="25"><img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff" height="25"><img src="https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=fff" height="25"><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff" height="25"><img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=fff" height="25">
+
+## Currently Learning
+
+<h3 align="left"><strong> ->⭐ x86 Assembly <-</strong></h3>
+<h3 align="left"><strong> ->⭐ Ethical Hacking <-</strong></h3>
+<h3 align="left"><strong> ->⭐ HackTheBox CTF <-</strong></h3>
 
 ## Github Statistics
 
