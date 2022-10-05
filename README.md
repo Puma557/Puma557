@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="left"><strong>
-I'm a self-taught penetration tester, aspiring to be a 0day Vulnerability researcher.</strong></h3>
+I'm a self-taught Penetration Tester, aspiring to be a 0day Vulnerability Researcher.</strong></h3>
 
 <a target="_blank" href="https://linkedin.com/in/Andre0liveira">
 <img src="https://img.shields.io/badge/-André Oliveira-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/Andre0liveira" alt="Linkedin Badge">
