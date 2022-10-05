@@ -14,8 +14,8 @@ I'm a self-taught penetration tester, aspiring to be a 0day Vulnerability resear
 <img src="https://img.shields.io/badge/Waflisan-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://mobile.twitter.com/waflisan" alt="Twitter Badge">
 </a>
 
-<a target="_blank" href="waffleshouse.rf.gd">
-<img src="https://img.shields.io/badge/-sidbelbase-141414?style=for-the-badge&logo=firefox&logoColor=white&link=https://behance.net/sidbelbase" alt="Behance Badge">
+<a target="_blank" href="https://waffleshouse.rf.gd">
+<img src="https://img.shields.io/badge/-sidbelbase-141414?style=for-the-badge&logo=firefox&logoColor=white&link=https://waffleshouse.rf.gd" alt="Firefox Badge">
 </a>
 
 ## Skills
