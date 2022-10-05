@@ -32,3 +32,7 @@ I'm a self-taught penetration tester, aspiring to be a 0day Vulnerability resear
 ## Github Statistics
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=WafflesExploit&count_private=true&show_icons=true&theme=radical)                  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WafflesExploit&show_icons=true&theme=radical)
+
+## Contact me
+
+<h3 align="left"><strong>Contact me through here or e-mail me. :) </strong></h3>
