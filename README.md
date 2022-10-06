@@ -19,12 +19,13 @@ I'm a self-taught Penetration Tester, aspiring to be a 0day Vulnerability Resear
 <img src="https://img.shields.io/badge/-Waffle's Exploits-141414?style=for-the-badge&logo=firefox&logoColor=white&link=https://waffleshouse.rf.gd" alt="Firefox Badge">
 </a>
 
+![HD_transparent_picture - Copy](https://user-images.githubusercontent.com/15943431/194247449-478ff168-3012-41f9-9ca0-37f33bf33a16.png)
+
 ## 🔧Skills🔧
 
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff" height="25"><img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=fff" height="25"><img src="https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=fff" height="25"><img src="https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=fff" height="25"><img src="https://img.shields.io/badge/-VStudio-5C2D91?logo=visualstudio&logoColor=fff" height="25"><img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff" height="25"><img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff" height="25"><img src="https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=fff" height="25"><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff" height="25"><img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=fff" height="25"><img src="https://img.shields.io/badge/-Office-D83B01?logo=microsoftoffice&logoColor=fff" height="25"><img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff" height="25">
 
-## 
-
+![HD_transparent_picture - Copy](https://user-images.githubusercontent.com/15943431/194247363-5a92e321-d327-42fd-a3bd-7b3f752fdef3.png)
 
 
 
@@ -35,12 +36,14 @@ I'm a self-taught Penetration Tester, aspiring to be a 0day Vulnerability Resear
 <h3 align="left"><strong> ->⭐ HackTheBox CTF </strong></h3>
 
 
+![HD_transparent_picture - Copy](https://user-images.githubusercontent.com/15943431/194247400-cc2ae868-79ed-4d9b-b8b5-e4b556fdce7b.png)
 
 
 ## 📊Github Statistics📊
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=WafflesExploit&count_private=true&show_icons=true&theme=radical)                  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WafflesExploit&show_icons=true&theme=radical)
 
+![HD_transparent_picture - Copy](https://user-images.githubusercontent.com/15943431/194247457-2367a9cf-3eb1-41d3-8507-83c1510caf25.png)
 
 
 ## ⭐Contact me⭐
