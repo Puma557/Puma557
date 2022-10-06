@@ -33,7 +33,7 @@ I'm a self-taught Penetration Tester, aspiring to be a 0day Vulnerability Resear
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=WafflesExploit&count_private=true&show_icons=true&theme=radical)                  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WafflesExploit&show_icons=true&theme=radical)
 
-## Contact me
+## ⭐Contact me⭐
 
 <h3 align="left">Contact me through here or through my socials :) </h3>
 <img src="https://img.shields.io/badge/-andreoliveira208@gmail.com-EA4335?logo=gmail&logoColor=fff" height="25">
