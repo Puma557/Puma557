@@ -35,4 +35,4 @@ I'm a self-taught Penetration Tester, aspiring to be a 0day Vulnerability Resear
 
 ## Contact me
 
-<h3 align="left"><strong>Contact me through here or e-mail me. :) </strong></h3>
+<h3 align="left">Contact me through here or through my socials :) </h3>
