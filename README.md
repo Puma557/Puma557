@@ -40,8 +40,12 @@ I'm a self-taught Penetration Tester, aspiring to be a 0day Vulnerability Resear
 
 
 ## 📊Github Statistics📊
+![](https://github-readme-stats.vercel.app/api?username=WafflesExploit&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=WafflesExploit&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WafflesExploit&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=WafflesExploit&count_private=true&show_icons=true&theme=radical)                  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WafflesExploit&show_icons=true&theme=radical)
+
+
 
 ![HD_transparent_picture - Copy](https://user-images.githubusercontent.com/15943431/194247457-2367a9cf-3eb1-41d3-8507-83c1510caf25.png)
 
