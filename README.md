@@ -31,8 +31,8 @@ I'm a self-taught Penetration Tester, aspiring to be a 0day Vulnerability Resear
 
 ## 👨‍💻Currently Learning👨‍💻
 
-<h3 align="left"><strong> ->⭐ x86 Assembly </strong></h3>
-<h3 align="left"><strong> ->⭐ Ethical Hacking </strong></h3>
+<h3 align="left"><strong> ->⭐ HTML&CSS </strong></h3>
+<h3 align="left"><strong> ->⭐ CompTIA Network+ </strong></h3>
 <h3 align="left"><strong> ->⭐ HackTheBox CTF </strong></h3>
 
 
