@@ -40,8 +40,7 @@ I'm a self-taught Penetration Tester, aspiring to be a 0day Vulnerability Resear
 <br> </br>
  
 ### ⚙️Software⚙️
-<img src="https://img.shields.io/badge/-VStudio-5C2D91?logo=visualstudio&logoColor=fff" height="25">
-<img src="https://img.shields.io/badge/-Office-D83B01?logo=microsoftoffice&logoColor=fff" height="25"> <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff" height="25">
+<img src="https://img.shields.io/badge/-VStudio-5C2D91?logo=visualstudio&logoColor=fff" height="25"> <img src="https://img.shields.io/badge/-Office-D83B01?logo=microsoftoffice&logoColor=fff" height="25"> <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff" height="25">
 
 
 
