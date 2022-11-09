@@ -31,7 +31,7 @@ I'm a self-taught Penetration Tester, aspiring to be a 0day Vulnerability Resear
      <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=fff" height="25"> <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff" height="25"> <img src="https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=csharp&logoColor=fff" height="25"> 
 
    - #### Web Dev 
-     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" height="25"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" height="25"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff" height="25">  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" height="25"> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" height="25">
+     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" height="25"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" height="25"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff" height="25"> <img src="https://img.shields.io/badge/-BootStrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff" height="25"> <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" height="25"> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" height="25">
 
  
 - ### ⚙️Software⚙️
