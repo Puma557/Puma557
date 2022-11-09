@@ -33,21 +33,18 @@ I'm a self-taught Penetration Tester, aspiring to be a 0day Vulnerability Resear
 - #### Web Dev 
      <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" height="25"> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff" height="25"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff" height="25">  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff" height="25"> <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff" height="25">
 
-<br> </br>
- 
-### 🐱‍💻Hacking🐱‍💻
-
-<br> </br>
  
 ### ⚙️Software⚙️
 <img src="https://img.shields.io/badge/-VStudio-5C2D91?logo=visualstudio&logoColor=fff" height="25"> <img src="https://img.shields.io/badge/-Office-D83B01?logo=microsoftoffice&logoColor=fff" height="25"> <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff" height="25">
 
 
 
-   <br> </br>
-
-
-
+<br> </br>
+ 
+## 🐱‍💻Hacking🐱‍💻
+### Socials
+<img src="https://img.shields.io/badge/-HackTheBox-9FEF00?logo=HackTheBox&logoColor=fff?link=http://left&link=http://right" height="25">
+<br> </br>
 
 ## 👨‍💻Currently Learning👨‍💻
 
