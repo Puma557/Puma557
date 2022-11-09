@@ -43,7 +43,7 @@ I'm a self-taught Penetration Tester, aspiring to be a 0day Vulnerability Resear
  
 ## 🐱‍💻Hacking🐱‍💻
 ### Socials
-<img src="https://img.shields.io/badge/-HackTheBox-9FEF00?logo=HackTheBox&logoColor=fff?link=http://left&link=http://right" height="25">
+<img src="https://img.shields.io/badge/-HackTheBox-76B004?logo=HackTheBox&logoColor=white&link=https://linkedin.com/in/Andre0liveira" height="25">
 <br> </br>
 
 ## 👨‍💻Currently Learning👨‍💻
