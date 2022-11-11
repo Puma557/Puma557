@@ -14,10 +14,6 @@ I'm a self-taught Penetration Tester, aspiring to be a 0day Vulnerability Resear
 <img src="https://img.shields.io/badge/Waflisan-1ca0f1?style=for-the-badge&logo=twitter&logoColor=fff" alt="Twitter Badge">
 </a>
 
-<a target="_blank" href="https://wafflesexploits.rf.gd">
-<img src="https://img.shields.io/badge/-Waffle's Exploits-141414?style=for-the-badge&logo=firefox&logoColor=fff" alt="Firefox Badge">
-</a>
-
 <br></br>
 <br></br>
 
