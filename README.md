@@ -39,11 +39,9 @@ I'm a self-taught Penetration Tester, aspiring to be a 0day Vulnerability Resear
  
 ## 🐱‍💻Hacking🐱‍💻
 - ### Socials
-     <a target="_blank" href="https://app.hackthebox.com/users/1226970"> <img src="https://img.shields.io/badge/-HackTheBox-76B004?style=for-the-badge&logo=HackTheBox&logoColor=white" alt="HackTheBox Badge"></a>    <a target="_blank" href="https://tryhackme.com/p/WafflesExploit"> <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe Badge"> </a>
-     <br> </br>
+     <a target="_blank" href="https://app.hackthebox.com/users/1226970"> <img src="https://img.shields.io/badge/-HackTheBox-76B004?style=for-the-badge&logo=HackTheBox&logoColor=white" alt="HackTheBox Badge"></a>
+  <a target="_blank" href="https://tryhackme.com/p/WafflesExploit"> <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe Badge"> </a>
 
-
- <br> </br>
   <br> </br>
 
 ## 📊Github Statistics📊
