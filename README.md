@@ -10,7 +10,7 @@ I'm a self-taught Penetration Tester, aspiring to be a 0day Vulnerability Resear
 <a target="_blank" href="https://linkedin.com/in/Andre0liveira">
 <img src="https://img.shields.io/badge/-André Oliveira-blue?style=for-the-badge&logo=Linkedin&logoColor=fff" alt="Linkedin Badge">
 </a>
-<a target="_blank" href="https://app.hackthebox.com/users/1226970"> <img src="https://img.shields.io/badge/-HackTheBox-76B004?style=for-the-badge&logo=HackTheBox&logoColor=white" alt="HackTheBox Badge"></a>
+<!--<a target="_blank" href="https://app.hackthebox.com/users/1226970"> <img src="https://img.shields.io/badge/-HackTheBox-76B004?style=for-the-badge&logo=HackTheBox&logoColor=white" alt="HackTheBox Badge"></a>-->
   <a target="_blank" href="https://tryhackme.com/p/WafflesExploit"> <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe Badge"> </a>
   <a target="_blank" href="https://tryhackme.com/p/WafflesExploit"> <img src="https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=fff&style=for-the-badge" alt="HackerOne Badge"> </a>
 
