@@ -11,7 +11,7 @@ I'm a self-taught Penetration Tester, and an Exploit Development enthusiast.</st
 </a>
   <a target="_blank" href="https://app.hackthebox.com/users/1226970"> <img src="https://img.shields.io/badge/-HackTheBox-76B004?style=for-the-badge&logo=HackTheBox&logoColor=white" alt="HackTheBox Badge"></a>
   <a target="_blank" href="https://tryhackme.com/p/WafflesExploit"> <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe Badge"> </a>
-  <a target="_blank" href="https://hackerone.com/wafflesexploits"> <img src="https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=fff&style=for-the-badge" alt="HackerOne Badge"> </a>
+  <a target="_blank" href="https://linktr.ee/WafflesExploits"> <img src="https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=fff&style=for-the-badge" alt="Linktr.ee Badge"> </a>
 
 <br></br>
 <br></br>
