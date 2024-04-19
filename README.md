@@ -36,10 +36,10 @@ I'm a self-taught Penetration Tester, and a Reverse Engineering enthusiast.</str
   <br> </br>
 
 ## 📊Github Statistics📊
-![](https://github-readme-stats.vercel.app/api?username=WafflesExploit&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=WafflesExploit&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WafflesExploit&langs_count=10&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=WafflesExploits&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=WafflesExploits&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WafflesExploist&langs_count=10&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=WafflesExploits&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
