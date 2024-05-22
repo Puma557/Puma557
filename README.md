@@ -11,6 +11,7 @@ I'm a self-taught Penetration Tester, and an Exploit Development enthusiast.</st
 <a target="_blank" href="https://tryhackme.com/p/WafflesExploit"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe Badge"></a>
 <a target="_blank" href="https://app.hackthebox.com/users/1226970"><img src="https://img.shields.io/badge/-HackTheBox-76B004?style=for-the-badge&logo=HackTheBox&logoColor=white" alt="HackTheBox Badge"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/-waflisan-5865F2?style=for-the-badge&logo=Discord&logoColor=white" alt="HackTheBox Badge"></a>
+<a target="_blank" href="mailto:andreoliveira208@gmail.com"><img src="https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail Badge"></a>
 
 
 <br></br>
@@ -46,10 +47,3 @@ I'm a self-taught Penetration Tester, and an Exploit Development enthusiast.</st
  <br> </br>
   <br> </br>
 
-## ⭐Contact me⭐
-
-<h3 align="left">Contact me through here or through my socials :) </h3>
-<a href="mailto:andreoliveira208@gmail.com">
-<img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=fff" height="25">
-</a>
-<img src="https://img.shields.io/badge/-Waflisan Tag:1839-5865F2?logo=discord&logoColor=fff" height="25">
