@@ -6,7 +6,7 @@
 <h3 align="left"><strong>
 I'm a self-taught Penetration Tester, and an Exploit Development enthusiast.</strong></h3>
 
-<a target="_blank" href="https://linkedin.com/in/Andre0liveira"><img src="https://img.shields.io/badge/-André Oliveira-blue?style=for-the-badge&logo=Linkedin&logoColor=fff" alt="Linkedin Badge"></a>
+<a target="_blank" href="https://linkedin.com/in/Andre0liveira"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=fff" alt="Linkedin Badge"></a>
 <a target="_blank" href="https://wafflesexploits.github.io/"><img src="https://img.shields.io/badge/-Website-red?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website Badge"></a>
 <a target="_blank" href="https://tryhackme.com/p/WafflesExploit"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe Badge"></a>
 <a target="_blank" href="https://app.hackthebox.com/users/1226970"><img src="https://img.shields.io/badge/-HackTheBox-76B004?style=for-the-badge&logo=HackTheBox&logoColor=white" alt="HackTheBox Badge"></a>
