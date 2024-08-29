@@ -4,7 +4,7 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://wafflesexploits.github.io/">André Oliveira.</a></strong></h1>
 
 <h3 align="left"><strong>
-I'm a self-taught Penetration Tester, and an Exploit Development enthusiast.</strong></h3>
+I'm a self-taught Penetration Tester, and a Malware developer.</strong></h3>
 
 <a target="_blank" href="https://linkedin.com/in/Andre0liveira"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=fff" alt="Linkedin Badge"></a>
 <a target="_blank" href="https://wafflesexploits.github.io/"><img src="https://img.shields.io/badge/-Website-red?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website Badge"></a>
