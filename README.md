@@ -3,7 +3,7 @@
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hi, I'm André, also known as <a href="https://wafflesexploits.github.io/">WafflesExploits</a>!</strong></h1>
  <h3><ul align="left">
-  <li>I’m a penetration tester with a strong passion for red teaming and malware development.</li>
+  <li>I’m a penetration tester with a strong passion for red teaming, malware development, and teaching.</li>
   <li>I love exploring new ideas and sharing my findings through blog posts.</li>
   <li>My goal is to break down complex techniques into simple, digestible steps so that everyone can easily understand and learn from them.</li>
 </ul></h3>
