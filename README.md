@@ -1,10 +1,14 @@
 ![ezgif-3-2299ef5784](https://user-images.githubusercontent.com/15943431/194160008-5a5b6085-e6fb-41f4-9d95-6db890c7e698.gif)
 
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://wafflesexploits.github.io/">André Oliveira.</a></strong></h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hi, I'm André, also known as <a href="https://wafflesexploits.github.io/">WafflesExploits</a>!</strong></h1>
+ <h3><ul align="left">
+  <li>I’m a penetration tester with a strong passion for red teaming and malware development.</li>
+  <li>I love exploring new ideas and sharing my findings through blog posts.</li>
+  <li>My goal is to break down complex techniques into simple, digestible steps so that everyone can easily understand and learn from them.</li>
+</ul></h3>
 
-<h3 align="left"><strong>
-I'm a Penetration Tester, and Malware developer.</strong></h3>
+<br><br>
 
 <a target="_blank" href="https://wafflesexploits.github.io/"><img src="https://img.shields.io/badge/-Website-red?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website Badge"></a>
 <a target="_blank" href="https://linkedin.com/in/Andre0liveira"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=fff" alt="Linkedin Badge"></a>
@@ -14,8 +18,6 @@ I'm a Penetration Tester, and Malware developer.</strong></h3>
 <a target="_blank"><img src="https://img.shields.io/badge/-waflisan-5865F2?style=for-the-badge&logo=Discord&logoColor=white" alt="HackTheBox Badge"></a>
 <a target="_blank" href="mailto:andreoliveira208@gmail.com"><img src="https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail Badge"></a>
 
-
-<br></br>
 <br></br>
 
 ## 🔧Skills🔧
