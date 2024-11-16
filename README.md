@@ -1,6 +1,3 @@
-![ezgif-3-2299ef5784](https://user-images.githubusercontent.com/15943431/194160008-5a5b6085-e6fb-41f4-9d95-6db890c7e698.gif)
-
-
 <h3 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hi, I'm André, also known as <a href="https://wafflesexploits.github.io/">WafflesExploits</a>!</strong></h2>
  <h4>I’m a penetration tester with a strong passion for red teaming, malware development, and teaching.</h4>
 
