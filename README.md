@@ -1,15 +1,10 @@
 ![ezgif-3-2299ef5784](https://user-images.githubusercontent.com/15943431/194160008-5a5b6085-e6fb-41f4-9d95-6db890c7e698.gif)
 
 
-<h2 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hi, I'm André, also known as <a href="https://wafflesexploits.github.io/">WafflesExploits</a>!</strong></h2>
- <h4><ul align="left">
-  <li>I’m a penetration tester with a strong passion for red teaming, malware development, and teaching.</li>
-  <li>I love exploring new ideas and sharing my findings through blog posts.</li>
-  <li>My goal is to break down complex techniques into simple, digestible steps so that everyone can easily understand and learn from them.</li>
-</ul></h4>
+<h3 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hi, I'm André, also known as <a href="https://wafflesexploits.github.io/">WafflesExploits</a>!</strong></h2>
+ <h4>I’m a penetration tester with a strong passion for red teaming, malware development, and teaching.</h4>
 
-<br>
-
+### Socials
 <a target="_blank" href="https://wafflesexploits.github.io/"><img src="https://img.shields.io/badge/-Website-red?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website Badge"></a>
 <a target="_blank" href="https://linkedin.com/in/Andre0liveira"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=fff" alt="Linkedin Badge"></a>
 <a target="_blank" href="https://x.com/waflisan"><img src="https://img.shields.io/badge/-X (Twitter)-000?style=for-the-badge&logo=x&logoColor=fff" alt="X Badge"></a>
