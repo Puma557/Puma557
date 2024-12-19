@@ -21,6 +21,7 @@
 [![Buy me a KO-FI](https://img.shields.io/badge/-Buy%20me%20a%20KOFI-FF5F1D?style=for-the-badge&logo=KO-FI&logoColor=fff)](https://ko-fi.com/wafflesexploits)
 
 <h4>💬 Have feedback or ideas? I’d love to hear your thoughts or suggestions!</h4>
+
 ## 📊Github Statistics📊
 [![trophy](https://github-profile-trophy.vercel.app/?username=WafflesExploits&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WafflesExploits&theme=algolia&hide_border=false)<br/>
