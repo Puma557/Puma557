@@ -1,5 +1,6 @@
 <h3 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hi, I'm André, also known as <a href="https://wafflesexploits.github.io/">WafflesExploits</a>!</strong></h3>
- <h4I’m a penetration tester with a strong passion for red teaming, malware development, and teaching.</h4>
+ 
+<h4>I’m a penetration tester with a strong passion for red teaming, malware development, and teaching.</h4>
 
 ## Socials
 <a target="_blank" href="https://wafflesexploits.github.io/"><img src="https://img.shields.io/badge/-Website-red?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website Badge"></a>
