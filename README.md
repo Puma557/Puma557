@@ -1,6 +1,5 @@
 <h4 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hi, I'm André, also known as <a href="https://wafflesexploits.github.io/">WafflesExploits</a>!</strong></h4>
 
-## Socials
 <a target="_blank" href="https://wafflesexploits.github.io/"><img src="https://img.shields.io/badge/-Website-red?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website Badge"></a>
 <a target="_blank" href="https://linkedin.com/in/Andre0liveira"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=fff" alt="Linkedin Badge"></a>
 <a target="_blank" href="https://x.com/waflisan"><img src="https://img.shields.io/badge/-X (Twitter)-000?style=for-the-badge&logo=x&logoColor=fff" alt="X Badge"></a>
@@ -10,7 +9,6 @@
 <a target="_blank" href="mailto:andreoliveira208@gmail.com"><img src="https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail Badge"></a>
 
 <h3> Looking for a Pentester? I’m open for contracts and full-time opportunities – feel free to DM me!</h3>
-
 
 ## 🙌Support🙌
 <h4> Enjoying my content? Show your support by sharing or starring my repositories! </h4>
