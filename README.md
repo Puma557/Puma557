@@ -21,12 +21,3 @@
 
 ## 📊Github Statistics📊
 [![trophy](https://github-profile-trophy.vercel.app/?username=WafflesExploits&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://github-readme-streak-stats.herokuapp.com/?user=WafflesExploits&theme=algolia&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=WafflesExploits&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WafflesExploist&langs_count=10&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-
-
-
- <br> </br>
-  <br> </br>
-
